@@ -1,16 +1,28 @@
-## Hi there 👋
+# Привет всем! 👋
 
-<!--
-**EK-fl/EK-fl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут **Елена Козырева**. Я начинающий **Fullstack-разработчик** и сейчас развиваюсь в веб-разработке: создаю интерфейсы и изучаю серверную логику.
 
-Here are some ideas to get you started:
+## 🧰 Мой стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:** HTML, CSS, JavaScript, TypeScript  
+**Backend:** Node.js, Python  
+**Инструменты:** Git и GitHub
+
+## 💡 Демо-концепции
+
+- **Focus Board** — доска задач с категориями и приоритетами
+- **Bookmarks API** — REST API для хранения и поиска закладок
+- **Shelf Notes** — дневник прочитанных книг с серверной частью
+
+Это демонстрационные концепции для изучения и практики, а не клиентские проекты.
+
+## 🌱 Сейчас я
+
+- Практикуюсь в fullstack-разработке
+- Работаю над учебными и пет-проектами
+- Открыта к предложениям о работе, стажировке и сотрудничестве
+
+## 📫 Контакты
+
+- **Email:** [kozyreva_e_fl@mail.ru](mailto:kozyreva_e_fl@mail.ru)
+- **GitHub:** [EK-fl](https://github.com/EK-fl)
